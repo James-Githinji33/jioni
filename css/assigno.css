@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    color:white;
+}
+div.a{
+    width: 50%;
+    float:left;
+}
+div.b{ width:49.5%;
+    float:right;
+    border: dimgray solid 1px;
+    border-radius: 10px;
+
+}
+iframe{
+    width: 95%;
+    border-radius:20px;
+}
+.aa{
+    height:40px;
+    width: 200px;
+}
+textarea{
+    height: 150px;
+    width: 500px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+}
+input.aa{
+    border-radius: 10px;
+    margin-left: 10px;
+    background-color:black;
+    color: white;
+}
